@@ -6,6 +6,8 @@
 Kafka commandes : First start Zookeepr then run Kafka server
 
 **E:\kafka_2.12-3.7.2>.\bin\windows\zookeeper-server-start.bat .\config\zookeeper.properties**
+
+
 **E:\kafka_2.12-3.7.2>.\bin\windows\kafka-server-start.bat .\config\server.properties**
 
 
